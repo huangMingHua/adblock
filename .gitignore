@@ -1,0 +1,7 @@
+xcuserdata
+build
+.idea
+SDK
+Pods
+Podfile.lock
+.DS_Store

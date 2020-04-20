@@ -1,0 +1,9 @@
+Package: com.178.nga.tweak.ad
+Name: ad_nga
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: hmh
+Author: hmh
+Section: Tweaks

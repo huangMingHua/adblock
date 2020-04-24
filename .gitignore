@@ -5,3 +5,4 @@ SDK
 Pods
 Podfile.lock
 .DS_Store
+.theos
